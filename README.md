@@ -17,3 +17,14 @@ AI Advertising Optimizer — AI-driven ad campaign optimization, budget allocati
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
+
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [ai-caption-optimizer](https://github.com/Zion-support/ai-caption-optimizer) — https://ziontechgroup.com/ai-caption-optimizer/
+- [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) — https://ziontechgroup.com/ai-cloud-optimizer/
+- [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — https://ziontechgroup.com/ai-compute-optimizer/
+- [ai-ecommerce-optimizer](https://github.com/Zion-support/ai-ecommerce-optimizer) — https://ziontechgroup.com/ai-ecommerce-optimizer/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
